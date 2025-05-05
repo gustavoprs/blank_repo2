@@ -1,2 +1,5 @@
 Este é um arquivo de teste
 Nova linha adicionada
+ALTERAÇÃO FEITA DIRETAMENTE NO GITHUB:
+- Data: 05/05/2025
+- Autor: gustavoprs
