@@ -1,1 +1,2 @@
 Este é um arquivo de teste
+Nova linha adicionada
